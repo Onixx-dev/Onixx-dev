@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ### Мои контакты 
 
 <div id="badges">
-  <a href="https://t.me/metrPelnik">
+  <a href="https://www.linkedin.com/in/p-melnik-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/metrPelnik">
